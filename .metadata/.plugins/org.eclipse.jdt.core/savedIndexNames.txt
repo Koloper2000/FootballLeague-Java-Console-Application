@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\predavanja i vezbe\objektno orjentisano\seminarski rad\.metadata\.plugins\org.eclipse.jdt.core
+182959772.index
+2872044937.index
